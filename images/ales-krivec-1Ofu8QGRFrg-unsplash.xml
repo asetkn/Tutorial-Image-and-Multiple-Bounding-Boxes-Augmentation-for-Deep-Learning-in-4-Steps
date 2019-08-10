@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ales-krivec-1Ofu8QGRFrg-unsplash.jpg</filename>
+	<path>C:\Users\Asset\Documents\articles\image_bbs_augmentation\images\ales-krivec-1Ofu8QGRFrg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>119</ymin>
+			<xmax>831</xmax>
+			<ymax>847</ymax>
+		</bndbox>
+	</object>
+</annotation>

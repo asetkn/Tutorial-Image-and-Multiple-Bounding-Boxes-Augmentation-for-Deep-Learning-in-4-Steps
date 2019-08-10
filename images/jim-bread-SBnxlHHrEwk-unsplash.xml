@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>jim-bread-SBnxlHHrEwk-unsplash.jpg</filename>
+	<path>C:\Users\Asset\Documents\articles\image_bbs_augmentation\images\jim-bread-SBnxlHHrEwk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>251</ymin>
+			<xmax>609</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>

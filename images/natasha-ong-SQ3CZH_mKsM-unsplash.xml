@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>natasha-ong-SQ3CZH_mKsM-unsplash.jpg</filename>
+	<path>C:\Users\Asset\Documents\articles\image_bbs_augmentation\images\natasha-ong-SQ3CZH_mKsM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>160</ymin>
+			<xmax>773</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
