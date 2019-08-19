@@ -10,7 +10,12 @@ To do so we are planning to:
 
 This tutorial will walk you through this process step by step.
 
-At the core of this tutorial we will use amazing [imgaug library](https://github.com/aleju/imgaug). Even though author has published [extensive tutorials](https://nbviewer.jupyter.org/github/aleju/imgaug-doc/tree/master/notebooks/) on the use of the library and [Documentation](https://imgaug.readthedocs.io/en/latest/index.html) is available as well, I couldn't find a method or tutorial on how to extract augmented bounding boxes' coordinates and store them in the format I can feed into a neural network. 
+At the core of this tutorial we will use amazing [imgaug library](https://github.com/aleju/imgaug). Author has published [tutorials](https://nbviewer.jupyter.org/github/aleju/imgaug-doc/tree/master/notebooks/) on the use of the library and [Documentation](https://imgaug.readthedocs.io/en/latest/index.html).
+
+But here's a problem:
+I had to spend a whole day digging through the Documentation and coding up the script for my problem.
+I decided to share it, so you don't have to waste your time.
+
 Easiest way to install imgaug is through Anaconda. Follow this steps in Anaconda promt to create virtual environment, install imgaug and activate the environment:
 ```
 conda create -n myenv python=3.5.6
